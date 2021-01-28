@@ -21,6 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 <img src="https://raw.githubusercontent.com/Rell1025/Flixter/master/Flixter%20walkthrough.gif" width=250><br>
+<img src="https://raw.githubusercontent.com/Rell1025/Flixter/master/Flixter%20walkthrough%202.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
